@@ -3,8 +3,6 @@
   GitHub Profile Readme Generator
 </h1>
 
-#### Try it out: [Live demo](https://rahuldkjain.github.io/gh-profile-readme-generator)
-
 Just fill the details like `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog` etc. with a minimal UI.
 
 Click on `Generate README` to get your README in `markdown`.
