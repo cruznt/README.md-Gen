@@ -1,14 +1,11 @@
-</p>
-<h1 align="center">
-  GitHub Profile Readme Generator
-</h1>
 
-Just fill the details like `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog` etc. with a minimal UI.
+# README.md Generator
 
-Click on `Generate README` to get your README in `markdown`.
-You can preview the README too.
+## Project Description:
+ This application generates a README.md file for a project
 
-You can add latest addons like `visitors count`, `shields`, `dev icons`, `github stats` etc to your README in just one click.
+## Installation
+Step1: Run npm install and Step2: Run node index.js
 
-
-# README.md-Gen
+## Usage
+1.Run node index.js 2.Answers the questions 3.The README.md file will be created.
